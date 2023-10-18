@@ -5,12 +5,16 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-
+@font-face { font-family: Cyklone; src: url('CYKLONE.otf'); } 
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
 :root {
   scroll-behavior: smooth;
+}
+
+.logo {
+  font-family: "Cyklone", sans-serif;
 }
 
 body {
