@@ -13,10 +13,6 @@
   scroll-behavior: smooth;
 }
 
-.logo {
-  font-family: "Cyklone", sans-serif;
-}
-
 body {
   font-family: "Open Sans", sans-serif;
   color: #444444;
@@ -201,7 +197,7 @@ section {
   font-weight: 700;
   letter-spacing: 1px;
   color: #012970;
-  font-family: "Nunito", sans-serif;
+  font-family: "Cyklone", sans-serif;
   margin-top: 3px;
 }
 
